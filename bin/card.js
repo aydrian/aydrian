@@ -15,7 +15,7 @@ let options = {
 let data = {
   name: chalk.white('Aydrian Howard /'),
   handle: chalk.cyan('aydrian'),
-  work: chalk.white('Developer Advocate at MongoDB'),
+  work: chalk.white('Staff Developer Advocate at Pulumi'),
   twitter: chalk.cyan('https://twitter.com/aydrianj'),
   github: chalk.cyan('https://github.com/aydrian'),
   linkedin: chalk.cyan('https://linkedin.com/in/aydrian'),
