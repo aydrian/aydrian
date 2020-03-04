@@ -17,11 +17,11 @@
   "author": "Aydrian Howard <aydrian@gmail.com> (http://itsaydrian.com)",
   "license": "MIT",
   "dependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.2",
-    "commander": "^2.20.3"
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1"
   },
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^14.3.1"
   }
 }
